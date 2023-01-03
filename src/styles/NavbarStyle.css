@@ -1,0 +1,15 @@
+#h00{
+    color: aqua !important;
+}
+#searchInput:focus{
+    outline: none;
+}
+#searchInput{
+    border: none;
+}
+#SearchDiv{
+    border: 1px solid grey;
+    padding: 5px;
+    width: 400px;
+    border-radius: 20px;
+}
