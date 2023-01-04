@@ -16,7 +16,7 @@ function Movies() {
     },[])
 
   return (
-    <div className='bg-dark d-flex justify-content-center'>
+    <div className='bg-dark  d-flex justify-content-center '>
       <div className='row m-0 '>
         {Movies.map(movie=>{
         return (

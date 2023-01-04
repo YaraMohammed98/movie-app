@@ -20,10 +20,10 @@ function Navbar() {
           <a className="nav-link"  href='#'>Favourites</a>
         </li>
       </ul>
-        <div id="SearchDiv" className='input-group offset-9'>
+        {/* <div id="SearchDiv" className='input-group offset-9'>
         <input id='searchInput' className='bg-dark text-white' type="search" placeholder="Search by Name..." aria-label="Search"/>
         <ImSearch className='text-white my-2 '/>
-</div>
+</div> */}
     </div>
   </nav>
  )
